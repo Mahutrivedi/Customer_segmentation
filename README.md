@@ -66,7 +66,7 @@ Dimensionality reduction
 
 o	Even after removing redundant columns, still there are many columns.
 o	To cluster the data and visualization purpose PCA is used. 
-o	3 PCA components are kept for dimensionality reduction
+o	9 PCA components are kept for dimensionality reduction (Explained variance ratio = 0.8)
 
 Clustering of data
 
