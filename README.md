@@ -1,3 +1,6 @@
+![segments](https://user-images.githubusercontent.com/86886343/194060118-5a92ff5c-f79c-4b3f-8287-642bdc628bf1.jpg)
+
+
 Customer segmentation: Clustering
 
 Customer personality analysis is an in-depth understanding of company’s customers.  This analysis helps the company to understand their customer base better and also, they can offer more relevant products to each customer based on the cluster (Customer segment) they fall in.  Customer personality analysis helps the company to make a better product.  This is a win-win situation for both customer and company because, customers get better recommendations and experience this in turn increases the revenue for the company.
