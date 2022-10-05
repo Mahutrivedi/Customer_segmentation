@@ -74,7 +74,13 @@ o	Before clustering, number of clusters needs to be identified so for that elbow
 o	4 no. of clusters are selected.
 o	K-means clustering is used for clustering the data.
 
+![segments_3d](https://user-images.githubusercontent.com/86886343/194063207-5daab3f8-1cd5-49a2-b171-31e8397cb9d9.png)
+
+
 Customer personality analysis based on clusters found
+
+![segments_4](https://user-images.githubusercontent.com/86886343/194063234-dff15a7d-06a7-4f9a-b8f5-daa124bbe0df.png)
+
 
 o	After clustering is done 4 kinds of clusters are found
 
